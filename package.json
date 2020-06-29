@@ -1,0 +1,36 @@
+{
+  "name": "hz-pages",
+  "version": "0.1.0",
+  "description": "关于封装gulp工作流",
+  "keywords": [
+    "hz-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/haven09/hz-pages#readme",
+  "bugs": {
+    "url": "https://github.com/haven09/hz-pages/issues"
+  },
+  "license": "MIT",
+  "author": "hzuhen <18603971357@163.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haven09/hz-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
