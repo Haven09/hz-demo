@@ -24,8 +24,8 @@ $ yarn add hz-pages
 
 ```javascript
 const hzPages = require('hz-pages')
-const result = hzPages('zce')
-// result => 'zce@zce.me'
+const result = hzPages('hz')
+// result => 'hz@hz.me'
 ```
 
 ## API
@@ -45,7 +45,7 @@ const result = hzPages('zce')
 
 - Type: `string`
 - Details: host string
-- Default: `'zce.me'`
+- Default: `'hz.me'`
 
 ## Contributing
 
